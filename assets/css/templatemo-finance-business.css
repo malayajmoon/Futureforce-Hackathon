@@ -1,8 +1,3 @@
-/* 
-
-TemplateMo - Finance Business
-
-https://templatemo.com/tm-545-finance-business
 
 */
 
@@ -1054,6 +1049,16 @@ footer .contact-form button.filled-button:hover {
 .page-heading {
 	text-align: center;
 	background-image: url(../images/page-heading-bg.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 230px 0px 150px 0px;
+	color: #fff;
+}
+
+.page-heading-about {
+	text-align: center;
+	background-image: url(../images/about-image.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
